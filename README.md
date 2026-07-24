@@ -5,13 +5,13 @@ I'm pleased to share that I have successfully completed my Amazon Homepage Clone
 
 This project helped me strengthen my understanding of the fundamentals of front-end development, including:
 
-Semantic HTML,
+Semantic HTML
 
-CSS Flexbox,
+CSS Flexbox
 
-Page layout and positioning,
+Page layout and positioning
 
-Responsive design concepts,
+Responsive design concepts
 
 Navigation bar, hero section, product cards, and footer design
 
