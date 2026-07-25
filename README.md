@@ -1,24 +1,24 @@
 <h1>My First Front-End Project: Amazon Homepage Clone</h1>
 
 
-I'm pleased to share that I have successfully completed my Amazon Homepage Clone using HTML and CSS.
+I'm pleased to share that I have successfully completed my Amazon Homepage Clone using<b> HTML and CSS</b>.
 
 This project helped me strengthen my understanding of the fundamentals of front-end development, including:
 <ol>
   <li>
-	Semantic HTML
+	Semantic HTML
   </li>
   <li>
-	CSS Flexbox
+	CSS Flexbox
 </li>
   <li>
-	Page layout and positioning
+	Page layout and positioning
 </li>
   <li>
-	Responsive design concepts
+	Responsive design concepts
 </li>
   <li>
-	Navigation bar, hero section, product cards, and footer design
+	Navigation bar, hero section, product cards, and footer design
     </li>
 </ol>
 
